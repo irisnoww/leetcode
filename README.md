@@ -1,2 +1,3 @@
 # leetcode
-leetcode note/records
+leetcode notes
+- documenting leetcode notes and progress
